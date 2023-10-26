@@ -1,0 +1,14 @@
+migrations/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+develop-eggs/
+lib/
+lib64/
+parts/
+*.sqlite3
+*.pyc
+*.db
